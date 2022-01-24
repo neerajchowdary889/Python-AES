@@ -2,7 +2,7 @@
 This is AES file implimentation
 - For AES.py : 
 
- Copyright (C) 2012 Bo Zhu http://about.bozhu.me
+Copyright (C) 2012 Bo Zhu http://about.bozhu.me
  
 This is an exercise in secure symmetric-key encryption, implemented in pure
 Python (no external libraries needed).
